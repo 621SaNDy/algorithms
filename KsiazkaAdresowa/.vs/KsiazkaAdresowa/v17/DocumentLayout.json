@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|c:\\users\\wilko\\downloads\\ksiazkaadresowa (1)\\ksiazkaadresowa\\ksiazkaadresowa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|solutionrelative:ksiazkaadresowa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\ksiazkaadresowa\\dodaj.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|solutionrelative:ksiazkaadresowa\\dodaj.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\ksiazkaadresowa\\edit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|solutionrelative:ksiazkaadresowa\\edit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\ksiazkaadresowa\\edit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|solutionrelative:ksiazkaadresowa\\edit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\ksiazkaadresowa\\dodaj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|solutionrelative:ksiazkaadresowa\\dodaj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\ksiazkaadresowa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2EB8B04-357E-46BE-81BC-8EC4A4CAED63}|KsiazkaAdresowa\\KsiazkaAdresowa.csproj|solutionrelative:ksiazkaadresowa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 246,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.xaml",
+              "DocumentMoniker": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\Edit.xaml",
+              "RelativeDocumentMoniker": "KsiazkaAdresowa\\Edit.xaml",
+              "ToolTip": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\Edit.xaml",
+              "RelativeToolTip": "KsiazkaAdresowa\\Edit.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T19:35:23.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\Edit.xaml.cs",
+              "RelativeDocumentMoniker": "KsiazkaAdresowa\\Edit.xaml.cs",
+              "ToolTip": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\Edit.xaml.cs",
+              "RelativeToolTip": "KsiazkaAdresowa\\Edit.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-01T19:35:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KsiazkaAdresowa\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KsiazkaAdresowa\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:35:23.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KsiazkaAdresowa\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\MainWindow.xaml",
+              "RelativeToolTip": "KsiazkaAdresowa\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T19:35:23.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dodaj.xaml",
+              "DocumentMoniker": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\Dodaj.xaml",
+              "RelativeDocumentMoniker": "KsiazkaAdresowa\\Dodaj.xaml",
+              "ToolTip": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\Dodaj.xaml",
+              "RelativeToolTip": "KsiazkaAdresowa\\Dodaj.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T19:35:23.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dodaj.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\Dodaj.xaml.cs",
+              "RelativeDocumentMoniker": "KsiazkaAdresowa\\Dodaj.xaml.cs",
+              "ToolTip": "C:\\Users\\wilko\\Downloads\\KsiazkaAdresowa (1)\\KsiazkaAdresowa\\KsiazkaAdresowa\\Dodaj.xaml.cs",
+              "RelativeToolTip": "KsiazkaAdresowa\\Dodaj.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwBoAAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-01T19:35:23.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

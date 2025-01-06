@@ -1,0 +1,74 @@
+﻿<Window x:Class="KsiazkaAdresowa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KsiazkaAdresowa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="600"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30px"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="10px"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10px"></ColumnDefinition>
+                <ColumnDefinition Width="4*"></ColumnDefinition>
+                <ColumnDefinition Width="6*"></ColumnDefinition>
+                <ColumnDefinition Width="10px"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <DataGrid x:Name="dgContacts" Grid.Column="1">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding ID}" Header="ID" Width="2*"></DataGridTextColumn>
+                    <DataGridTextColumn Binding="{Binding Name}" Header="Name" Width="4*"></DataGridTextColumn>
+                    <DataGridTextColumn Binding="{Binding Age}" Header="Age" Width="4*"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+
+            <Grid Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="15px"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="10px"></ColumnDefinition>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="2*"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Label x:Name="lbServer" Grid.Row="0" Grid.Column="1" Content="Server"></Label>
+                <Label x:Name="lbDataBase" Grid.Row="1" Grid.Column="1" Content="DataBase"></Label>
+                <Label x:Name="lbUID" Grid.Row="2" Grid.Column="1" Content="UID"></Label>
+                <Label x:Name="lbPassword" Grid.Row="3" Grid.Column="1" Content="Password"></Label>
+                <Button x:Name="btnConnect" Grid.Row="4" Grid.Column="1" Content="Connect" Height="25px" Click="btnConnect_Click"></Button>
+                <Button x:Name="btnGetData" Grid.Row="5" Grid.Column="1" Content="GetData" Height="25px" Click="btnGetData_Click" IsEnabled="False"></Button>
+                <Button x:Name="btnAddRows" Grid.Row="6" Grid.Column="1" Content="Dodaj" Height="25px" Click="btnDodaj_Click" IsEnabled="False"></Button>
+                <Button x:Name="btnEditRow" Grid.Row="7" Grid.Column="1" Content="Edytuj" Height="25px" Click="btnEditRow_Click" IsEnabled="False"></Button>
+                <Button x:Name="btnDeleteRow" Grid.Row="8" Grid.Column="1" Content="Usuń" Height="25px" Click="btnDeleteRow_Click" IsEnabled="False"></Button>
+
+                <TextBox x:Name="tbServer" Grid.Row="0" Grid.Column="3" Height="25px"></TextBox>
+                <TextBox x:Name="tbDataBase" Grid.Row="1" Grid.Column="3" Height="25px"></TextBox>
+                <TextBox x:Name="tbUID" Grid.Row="2" Grid.Column="3" Height="25px"></TextBox>
+                <TextBox x:Name="tbPassword" Grid.Row="3" Grid.Column="3" Height="25px"></TextBox>
+                <Label x:Name="lbConnection" Grid.Row="4" Grid.Column="3" Content="No connect" VerticalAlignment="Center"></Label>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

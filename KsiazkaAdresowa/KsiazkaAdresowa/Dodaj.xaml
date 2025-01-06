@@ -1,0 +1,32 @@
+﻿<Window x:Class="KsiazkaAdresowa.Dodaj"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KsiazkaAdresowa"
+        mc:Ignorable="d"
+        Title="Dodaj" Height="350" Width="400"
+        ResizeMode="NoResize">
+    <Grid Margin="20px">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Imię:" FontSize="16" x:Name="lbImie"/>
+        <Label Grid.Row="1" Grid.Column="0" Content="Wiek:" FontSize="16" x:Name="lbWiek"/>
+
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="tbImie" Margin="0px 0px 0px 3px"/>
+        <TextBox Grid.Row="1" Grid.Column="1" x:Name="tbWiek" Margin="0px 3px 0px 0px"/>
+
+        <Button Grid.Row="4" Grid.Column="1" x:Name="btnDodaj" Content="Dodaj" Width="100" Click="btnDodaj_Click"/>
+    </Grid>
+</Window>

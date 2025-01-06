@@ -1,0 +1,151 @@
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.exe.config
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.exe
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.pdb
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.AssemblyReference.cache
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\MainWindow.g.cs
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\App.g.cs
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa_MarkupCompile.cache
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa_MarkupCompile.lref
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\MainWindow.baml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.g.resources
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.Properties.Resources.resources
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.GenerateResource.cache
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.CoreCompileInputs.cache
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.exe
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.pdb
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.exe.config
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.exe
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.pdb
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Google.Protobuf.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\MySql.Data.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Buffers.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Memory.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\ZstdSharp.dll
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Google.Protobuf.pdb
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Google.Protobuf.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\MySql.Data.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Buffers.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Memory.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.AssemblyReference.cache
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\MainWindow.g.cs
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\App.g.cs
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa_MarkupCompile.cache
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa_MarkupCompile.lref
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\MainWindow.baml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.g.resources
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.Properties.Resources.resources
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.GenerateResource.cache
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.CoreCompileInputs.cache
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.CopyComplete
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.exe
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.pdb
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Dodaj.g.cs
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Dodaj.baml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Google.Protobuf.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\MySql.Data.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Buffers.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Memory.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\ZstdSharp.dll
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Google.Protobuf.pdb
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Google.Protobuf.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\MySql.Data.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Buffers.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Memory.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Dodaj.g.cs
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Dodaj.baml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.CopyComplete
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Edit.g.cs
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Edit.baml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.exe.config
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.exe
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\KsiazkaAdresowa.pdb
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Google.Protobuf.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\MySql.Data.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Buffers.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.IO.Pipelines.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Memory.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\ZstdSharp.dll
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Google.Protobuf.pdb
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Google.Protobuf.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\MySql.Data.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Buffers.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.IO.Pipelines.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Memory.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.AssemblyReference.cache
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Dodaj.g.cs
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Edit.g.cs
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\MainWindow.g.cs
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\App.g.cs
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa_MarkupCompile.cache
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa_MarkupCompile.lref
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Dodaj.baml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\Edit.baml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\MainWindow.baml
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.g.resources
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.Properties.Resources.resources
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.GenerateResource.cache
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.csproj.CoreCompileInputs.cache
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.exe
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaAdresowa.pdb
+C:\Users\wilko\Downloads\KsiazkaAdresowa (1)\KsiazkaAdresowa\KsiazkaAdresowa\obj\Debug\KsiazkaA.EB99EA9C.Up2Date
