@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "firma", "firma\firma.csproj", "{D11BAA8D-C900-400D-AFD9-6FFE40F8DEB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZespolGUI", "ZespolGUI\ZespolGUI.csproj", "{C9B4C580-64FD-4220-A6D4-316D00765E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11BAA8D-C900-400D-AFD9-6FFE40F8DEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11BAA8D-C900-400D-AFD9-6FFE40F8DEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11BAA8D-C900-400D-AFD9-6FFE40F8DEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11BAA8D-C900-400D-AFD9-6FFE40F8DEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B4C580-64FD-4220-A6D4-316D00765E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B4C580-64FD-4220-A6D4-316D00765E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B4C580-64FD-4220-A6D4-316D00765E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B4C580-64FD-4220-A6D4-316D00765E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6143ADA-FE08-4676-9759-C1935FEB3D22}
+	EndGlobalSection
+EndGlobal

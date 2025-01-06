@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZespolGUI/1.0.0": {
+        "dependencies": {
+          "Firma": "1.0.0"
+        },
+        "runtime": {
+          "ZespolGUI.dll": {}
+        }
+      },
+      "Firma/1.0.0": {
+        "runtime": {
+          "Firma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZespolGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Firma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

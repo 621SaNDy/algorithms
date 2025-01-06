@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zespol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LiczbaCzlonkow>5</LiczbaCzlonkow>
+  <Nazwa>Zespol IT</Nazwa>
+  <Kierownik Pesel="90070142412">
+    <Nazwisko>Kowalski</Nazwisko>
+    <Imie>Adam</Imie>
+    <Plec>M</Plec>
+    <DataUrodzenia>1990-01-01T00:07:00</DataUrodzenia>
+    <Doswiadczenie>5</Doswiadczenie>
+  </Kierownik>
+  <Czlonkowie>
+    <CzlonekZespolu Pesel="91072235964">
+      <Nazwisko>Mysza</Nazwisko>
+      <Imie>Anna</Imie>
+      <Plec>K</Plec>
+      <DataUrodzenia>1991-01-22T00:07:00</DataUrodzenia>
+      <DataZapisu>2019-07-31T00:00:00</DataZapisu>
+      <funkcja>projektant</funkcja>
+    </CzlonekZespolu>
+    <CzlonekZespolu Pesel="92031532652">
+      <Nazwisko>Janowski</Nazwisko>
+      <Imie>Jan</Imie>
+      <Plec>M</Plec>
+      <DataUrodzenia>1992-01-15T00:03:00</DataUrodzenia>
+      <DataZapisu>2020-01-01T00:00:00</DataZapisu>
+      <funkcja>programista</funkcja>
+    </CzlonekZespolu>
+    <CzlonekZespolu Pesel="92051613915">
+      <Nazwisko>But</Nazwisko>
+      <Imie>Jan</Imie>
+      <Plec>M</Plec>
+      <DataUrodzenia>1992-01-16T00:05:00</DataUrodzenia>
+      <DataZapisu>2019-06-01T00:00:00</DataZapisu>
+      <funkcja>programista</funkcja>
+    </CzlonekZespolu>
+    <CzlonekZespolu Pesel="92102266738">
+      <Nazwisko>Adamski</Nazwisko>
+      <Imie>Witold</Imie>
+      <Plec>M</Plec>
+      <DataUrodzenia>1992-01-22T00:10:00</DataUrodzenia>
+      <DataZapisu>2020-01-01T00:00:00</DataZapisu>
+      <funkcja>sekretarz</funkcja>
+    </CzlonekZespolu>
+    <CzlonekZespolu Pesel="93112225023">
+      <Nazwisko>Nowak</Nazwisko>
+      <Imie>Beata</Imie>
+      <Plec>K</Plec>
+      <DataUrodzenia>1993-01-22T00:11:00</DataUrodzenia>
+      <DataZapisu>2020-01-01T00:00:00</DataZapisu>
+      <funkcja>projektant</funkcja>
+    </CzlonekZespolu>
+  </Czlonkowie>
+</Zespol>

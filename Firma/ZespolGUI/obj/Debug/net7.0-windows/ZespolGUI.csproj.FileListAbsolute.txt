@@ -1,0 +1,87 @@
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.csproj.AssemblyReference.cache
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\OsobaWindow.g.cs
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI_MarkupCompile.cache
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI_MarkupCompile.lref
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.deps.json
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.runtimeconfig.json
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.exe
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.exe
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.deps.json
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.runtimeconfig.json
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.dll
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.pdb
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.dll
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.pdb
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\OsobaWindow.baml
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.g.resources
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.AssemblyInfoInputs.cache
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.AssemblyInfo.cs
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.csproj.CoreCompileInputs.cache
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.csproj.CopyComplete
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.dll
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\refint\ZespolGUI.dll
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.pdb
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.genruntimeconfig.cache
+C:\Users\Wilkosz Aleksandra\source\repos\firma\ZespolGUI\obj\Debug\net7.0-windows\ref\ZespolGUI.dll
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.deps.json
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.runtimeconfig.json
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.exe
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.exe
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.deps.json
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.runtimeconfig.json
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.dll
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.pdb
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.dll
+E:\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.pdb
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.csproj.AssemblyReference.cache
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\OsobaWindow.g.cs
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\App.g.cs
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI_MarkupCompile.cache
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI_MarkupCompile.lref
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\MainWindow.baml
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\OsobaWindow.baml
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.g.resources
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.AssemblyInfoInputs.cache
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.AssemblyInfo.cs
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.csproj.CoreCompileInputs.cache
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.csproj.CopyComplete
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.dll
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\refint\ZespolGUI.dll
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.pdb
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.genruntimeconfig.cache
+E:\firma\ZespolGUI\obj\Debug\net7.0-windows\ref\ZespolGUI.dll
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.deps.json
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.runtimeconfig.json
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.exe
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.exe
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.deps.json
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.runtimeconfig.json
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.dll
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\ZespolGUI.pdb
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.dll
+C:\Users\wilko\Desktop\firma\ZespolGUI\bin\Debug\net7.0-windows\firma.pdb
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.csproj.AssemblyReference.cache
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\OsobaWindow.g.cs
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI_MarkupCompile.cache
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI_MarkupCompile.lref
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\OsobaWindow.baml
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.g.resources
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.AssemblyInfoInputs.cache
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.AssemblyInfo.cs
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.csproj.CoreCompileInputs.cache
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.csproj.CopyComplete
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.dll
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\refint\ZespolGUI.dll
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.pdb
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ZespolGUI.genruntimeconfig.cache
+C:\Users\wilko\Desktop\firma\ZespolGUI\obj\Debug\net7.0-windows\ref\ZespolGUI.dll

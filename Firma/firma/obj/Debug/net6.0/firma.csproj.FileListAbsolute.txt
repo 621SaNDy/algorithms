@@ -1,0 +1,84 @@
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\obj\Debug\net6.0\firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\obj\Debug\net6.0\firma.AssemblyInfoInputs.cache
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\obj\Debug\net6.0\firma.AssemblyInfo.cs
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\obj\Debug\net6.0\firma.csproj.CoreCompileInputs.cache
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\bin\Debug\net6.0\firma.exe
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\bin\Debug\net6.0\firma.deps.json
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\bin\Debug\net6.0\firma.runtimeconfig.json
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\bin\Debug\net6.0\firma.dll
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\bin\Debug\net6.0\firma.pdb
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\obj\Debug\net6.0\firma.dll
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\obj\Debug\net6.0\refint\firma.dll
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\obj\Debug\net6.0\firma.pdb
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\obj\Debug\net6.0\firma.genruntimeconfig.cache
+C:\Users\Wilkosz Aleksandra\source\repos\firma\firma\obj\Debug\net6.0\ref\firma.dll
+C:\Users\wilko\source\repos\firma\firma\firma\obj\Debug\net6.0\firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilko\source\repos\firma\firma\firma\obj\Debug\net6.0\firma.AssemblyInfoInputs.cache
+C:\Users\wilko\source\repos\firma\firma\firma\obj\Debug\net6.0\firma.AssemblyInfo.cs
+C:\Users\wilko\source\repos\firma\firma\firma\obj\Debug\net6.0\firma.csproj.CoreCompileInputs.cache
+C:\Users\wilko\source\repos\firma\firma\firma\obj\Debug\net6.0\firma.dll
+C:\Users\wilko\source\repos\firma\firma\firma\obj\Debug\net6.0\refint\firma.dll
+C:\Users\wilko\source\repos\firma\firma\firma\obj\Debug\net6.0\firma.pdb
+C:\Users\wilko\source\repos\firma\firma\firma\bin\Debug\net6.0\firma.exe
+C:\Users\wilko\source\repos\firma\firma\firma\bin\Debug\net6.0\firma.deps.json
+C:\Users\wilko\source\repos\firma\firma\firma\bin\Debug\net6.0\firma.runtimeconfig.json
+C:\Users\wilko\source\repos\firma\firma\firma\bin\Debug\net6.0\firma.dll
+C:\Users\wilko\source\repos\firma\firma\firma\bin\Debug\net6.0\firma.pdb
+C:\Users\wilko\source\repos\firma\firma\firma\obj\Debug\net6.0\firma.genruntimeconfig.cache
+C:\Users\wilko\source\repos\firma\firma\firma\obj\Debug\net6.0\ref\firma.dll
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\bin\Debug\net6.0\firma.exe
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\bin\Debug\net6.0\firma.deps.json
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\bin\Debug\net6.0\firma.runtimeconfig.json
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\bin\Debug\net6.0\firma.dll
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\bin\Debug\net6.0\firma.pdb
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\obj\Debug\net6.0\firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\obj\Debug\net6.0\firma.AssemblyInfoInputs.cache
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\obj\Debug\net6.0\firma.AssemblyInfo.cs
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\obj\Debug\net6.0\firma.csproj.CoreCompileInputs.cache
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\obj\Debug\net6.0\firma.dll
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\obj\Debug\net6.0\refint\firma.dll
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\obj\Debug\net6.0\firma.pdb
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\obj\Debug\net6.0\firma.genruntimeconfig.cache
+C:\Users\Wilkosz Aleksandra\OneDrive - Zespół Szkół Łączności\xPulpit\Nowy folder\firma\firma\obj\Debug\net6.0\ref\firma.dll
+E:\firma\firma\bin\Debug\net6.0\firma.exe
+E:\firma\firma\bin\Debug\net6.0\firma.deps.json
+E:\firma\firma\bin\Debug\net6.0\firma.runtimeconfig.json
+E:\firma\firma\bin\Debug\net6.0\firma.dll
+E:\firma\firma\bin\Debug\net6.0\firma.pdb
+E:\firma\firma\obj\Debug\net6.0\firma.GeneratedMSBuildEditorConfig.editorconfig
+E:\firma\firma\obj\Debug\net6.0\firma.AssemblyInfoInputs.cache
+E:\firma\firma\obj\Debug\net6.0\firma.AssemblyInfo.cs
+E:\firma\firma\obj\Debug\net6.0\firma.csproj.CoreCompileInputs.cache
+E:\firma\firma\obj\Debug\net6.0\firma.dll
+E:\firma\firma\obj\Debug\net6.0\refint\firma.dll
+E:\firma\firma\obj\Debug\net6.0\firma.pdb
+E:\firma\firma\obj\Debug\net6.0\firma.genruntimeconfig.cache
+E:\firma\firma\obj\Debug\net6.0\ref\firma.dll
+C:\Users\wilko\Desktop\firma\firma\bin\Debug\net6.0\firma.exe
+C:\Users\wilko\Desktop\firma\firma\bin\Debug\net6.0\firma.deps.json
+C:\Users\wilko\Desktop\firma\firma\bin\Debug\net6.0\firma.runtimeconfig.json
+C:\Users\wilko\Desktop\firma\firma\bin\Debug\net6.0\firma.dll
+C:\Users\wilko\Desktop\firma\firma\bin\Debug\net6.0\firma.pdb
+C:\Users\wilko\Desktop\firma\firma\obj\Debug\net6.0\firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilko\Desktop\firma\firma\obj\Debug\net6.0\firma.AssemblyInfoInputs.cache
+C:\Users\wilko\Desktop\firma\firma\obj\Debug\net6.0\firma.AssemblyInfo.cs
+C:\Users\wilko\Desktop\firma\firma\obj\Debug\net6.0\firma.csproj.CoreCompileInputs.cache
+C:\Users\wilko\Desktop\firma\firma\obj\Debug\net6.0\firma.dll
+C:\Users\wilko\Desktop\firma\firma\obj\Debug\net6.0\refint\firma.dll
+C:\Users\wilko\Desktop\firma\firma\obj\Debug\net6.0\firma.pdb
+C:\Users\wilko\Desktop\firma\firma\obj\Debug\net6.0\firma.genruntimeconfig.cache
+C:\Users\wilko\Desktop\firma\firma\obj\Debug\net6.0\ref\firma.dll
+C:\Users\wilko\Desktop\firma\firma\firma\bin\Debug\net6.0\firma.exe
+C:\Users\wilko\Desktop\firma\firma\firma\bin\Debug\net6.0\firma.deps.json
+C:\Users\wilko\Desktop\firma\firma\firma\bin\Debug\net6.0\firma.runtimeconfig.json
+C:\Users\wilko\Desktop\firma\firma\firma\bin\Debug\net6.0\firma.dll
+C:\Users\wilko\Desktop\firma\firma\firma\bin\Debug\net6.0\firma.pdb
+C:\Users\wilko\Desktop\firma\firma\firma\obj\Debug\net6.0\firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilko\Desktop\firma\firma\firma\obj\Debug\net6.0\firma.AssemblyInfoInputs.cache
+C:\Users\wilko\Desktop\firma\firma\firma\obj\Debug\net6.0\firma.AssemblyInfo.cs
+C:\Users\wilko\Desktop\firma\firma\firma\obj\Debug\net6.0\firma.csproj.CoreCompileInputs.cache
+C:\Users\wilko\Desktop\firma\firma\firma\obj\Debug\net6.0\firma.dll
+C:\Users\wilko\Desktop\firma\firma\firma\obj\Debug\net6.0\refint\firma.dll
+C:\Users\wilko\Desktop\firma\firma\firma\obj\Debug\net6.0\firma.pdb
+C:\Users\wilko\Desktop\firma\firma\firma\obj\Debug\net6.0\firma.genruntimeconfig.cache
+C:\Users\wilko\Desktop\firma\firma\firma\obj\Debug\net6.0\ref\firma.dll
