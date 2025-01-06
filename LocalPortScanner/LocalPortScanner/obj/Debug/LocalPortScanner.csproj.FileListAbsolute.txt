@@ -1,0 +1,45 @@
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.exe.config
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.exe
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.pdb
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.AssemblyReference.cache
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\MainWindow.g.cs
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\App.g.cs
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner_MarkupCompile.cache
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner_MarkupCompile.lref
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\MainWindow.baml
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.g.resources
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.Properties.Resources.resources
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.GenerateResource.cache
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.CoreCompileInputs.cache
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.exe
+C:\Users\kfiat\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.pdb
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.exe.config
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.exe
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.pdb
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.AssemblyReference.cache
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\MainWindow.g.cs
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\App.g.cs
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner_MarkupCompile.cache
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner_MarkupCompile.lref
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\MainWindow.baml
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.g.resources
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.Properties.Resources.resources
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.GenerateResource.cache
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.CoreCompileInputs.cache
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.exe
+C:\Users\Kwiatkowski Michał\Documents\GitHub\Zawodowe\AITP-CS\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.pdb
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.exe.config
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.exe
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\bin\Debug\LocalPortScanner.pdb
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.AssemblyReference.cache
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\MainWindow.g.cs
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\App.g.cs
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner_MarkupCompile.cache
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner_MarkupCompile.lref
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\MainWindow.baml
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.g.resources
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.Properties.Resources.resources
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.GenerateResource.cache
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.csproj.CoreCompileInputs.cache
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.exe
+C:\Users\wilko\Desktop\LocalPortScanner\LocalPortScanner\obj\Debug\LocalPortScanner.pdb
