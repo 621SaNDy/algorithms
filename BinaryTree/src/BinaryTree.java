@@ -133,6 +133,38 @@ public class BinaryTree {
         return parent;
     }
 
+    public Node inOrderWithSuccessor(Node node) {
+        if (node == null) return null;
+
+        Node current = findMin(node);
+        while (current != null) {
+            System.out.print(current.value + " ");
+            current = successor(current.value);
+        }
+        return null;
+    }
+
+    public void preOrder(Node node) {
+        if (node == null) return;
+        System.out.print(node.value + " ");
+        preOrder(node.left);
+        preOrder(node.right);
+    }
+
+    public void inOrder(Node node) {
+        if (node == null) return;
+        inOrder(node.left);
+        System.out.print(node.value + " ");
+        inOrder(node.right);
+    }
+
+    public void postOrder(Node node) {
+        if (node == null) return;
+        postOrder(node.left);
+        postOrder(node.right);
+        System.out.print(node.value + " ");
+    }
+
     public void printTree() {
         if (root == null) {
             System.out.println("Tree is empty.");
@@ -185,5 +217,15 @@ public class BinaryTree {
 
         tree.findMinOfRoot(tree.root);
         tree.findMaxOfRoot(tree.root);
+
+        System.out.println("\nPreorder:");
+        tree.preOrder(tree.root);
+        System.out.println("\nInorder:");
+        tree.inOrder(tree.root);
+        System.out.println("\nInorder by successors");
+        tree.inOrderWithSuccessor(tree.root);
+        System.out.println("\nPostorder:");
+        tree.postOrder(tree.root);
+
     }
 }
