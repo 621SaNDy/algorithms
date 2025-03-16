@@ -1,10 +1,11 @@
 class Node {
     int value, height;
-    Node left, right;
+    Node left, right, parent;
 
     public Node(int value) {
         this.value = value;
         this.height = 1;
+        this.parent = null;
     }
 }
 
@@ -26,6 +27,10 @@ class AVLTree {
         x.right = y;
         y.left = T2;
 
+        if (T2 != null) T2.parent = y;
+        x.parent = y.parent;
+        y.parent = x;
+
         y.height = Math.max(height(y.left), height(y.right)) + 1;
         x.height = Math.max(height(x.left), height(x.right)) + 1;
 
@@ -39,6 +44,10 @@ class AVLTree {
         y.left = x;
         x.right = T2;
 
+        if (T2 != null) T2.parent = x;
+        y.parent = x.parent;
+        x.parent = y;
+
         x.height = Math.max(height(x.left), height(x.right)) + 1;
         y.height = Math.max(height(y.left), height(y.right)) + 1;
 
@@ -46,16 +55,20 @@ class AVLTree {
     }
 
     public void insert(int value) {
-        root = insertRec(root, value);
+        root = insertRec(root, value, null);
     }
 
-    private Node insertRec(Node node, int value) {
-        if (node == null) return new Node(value);
+    private Node insertRec(Node node, int value, Node parent) {
+        if (node == null) {
+            Node newNode = new Node(value);
+            newNode.parent = parent;
+            return newNode;
+        }
 
         if (value < node.value) {
-            node.left = insertRec(node.left, value);
+            node.left = insertRec(node.left, value, node);
         } else if (value > node.value) {
-            node.right = insertRec(node.right, value);
+            node.right = insertRec(node.right, value, node);
         } else {
             return node;
         }
@@ -78,6 +91,21 @@ class AVLTree {
         return node;
     }
 
+    public Node search(int value) {
+        return searchRec(root, value);
+    }
+
+    private Node searchRec(Node node, int value) {
+        if (node == null || node.value == value) {
+            return node;
+        }
+        if (value < node.value) {
+            return searchRec(node.left, value);
+        } else {
+            return searchRec(node.right, value);
+        }
+    }
+
     public void delete(int value) {
         root = deleteRec(root, value);
     }
@@ -98,7 +126,7 @@ class AVLTree {
                     node = temp;
                 }
             } else {
-                Node temp = findMin(node.right);
+                Node temp = findMinOfRoot(node.right);
                 node.value = temp.value;
                 node.right = deleteRec(node.right, temp.value);
             }
@@ -124,9 +152,84 @@ class AVLTree {
         return node;
     }
 
-    private Node findMin(Node node) {
-        while (node.left != null) node = node.left;
+    private Node findMinOfRoot(Node node) {
+        if (node == null) return null;
+        while (node.left != null) {
+            node = node.left;
+        }
         return node;
+    }
+
+    private Node findMaxOfRoot(Node node) {
+        if (node == null) return null;
+        while (node.right != null) {
+            node = node.right;
+        }
+        return node;
+    }
+
+    public Node successor(int value) {
+        Node current = search(value);
+        if (current == null) return null;
+
+        if (current.right != null) {
+            return findMinOfRoot(current.right);
+        }
+
+        Node parent = current.parent;
+        while (parent != null && current == parent.right) {
+            current = parent;
+            parent = parent.parent;
+        }
+        return parent;
+    }
+
+    public Node predecessor(int value) {
+        Node current = search(value);
+        if (current == null) return null;
+
+        if (current.left != null) {
+            return findMaxOfRoot(current.left);
+        }
+
+        Node parent = current.parent;
+        while (parent != null && current == parent.left) {
+            current = parent;
+            parent = parent.parent;
+        }
+        return parent;
+    }
+
+    public Node inOrderWithSuccessor(Node node) {
+        if (node == null) return null;
+
+        Node current = findMinOfRoot(node);
+        while (current != null) {
+            System.out.print(current.value + " ");
+            current = successor(current.value);
+        }
+        return null;
+    }
+
+    public void preOrder(Node node) {
+        if (node == null) return;
+        System.out.print(node.value + " ");
+        preOrder(node.left);
+        preOrder(node.right);
+    }
+
+    public void inOrder(Node node) {
+        if (node == null) return;
+        inOrder(node.left);
+        System.out.print(node.value + " ");
+        inOrder(node.right);
+    }
+
+    public void postOrder(Node node) {
+        if (node == null) return;
+        postOrder(node.left);
+        postOrder(node.right);
+        System.out.print(node.value + " ");
     }
 
     public void printTree() {
@@ -166,5 +269,26 @@ class AVLTree {
         tree.delete(30);
         System.out.println("\nAfter deleting 30:");
         tree.printTree();
+
+        System.out.println("\nFind 40: " + (tree.search(40) != null ? "Found" : "Not found"));
+
+        Node successor = tree.successor(50);
+        System.out.println("\nSuccessor 50: " + (successor != null ? successor.value : "None"));
+
+        Node predecessor = tree.predecessor(50);
+        System.out.println("Predecessor 50: " + (predecessor != null ? predecessor.value : "None") + "\n");
+
+        tree.findMinOfRoot(tree.root);
+        tree.findMaxOfRoot(tree.root);
+
+        System.out.println("\nPreorder:");
+        tree.preOrder(tree.root);
+        System.out.println("\nInorder:");
+        tree.inOrder(tree.root);
+        System.out.println("\nInorder by successors");
+        tree.inOrderWithSuccessor(tree.root);
+        System.out.println("\nPostorder:");
+        tree.postOrder(tree.root);
+
     }
 }

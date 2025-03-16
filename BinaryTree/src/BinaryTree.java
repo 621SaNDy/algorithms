@@ -200,6 +200,7 @@ public class BinaryTree {
         tree.insert(90);
         tree.insert(85);
 
+
         System.out.println("Tree structure:");
         tree.printTree();
 
